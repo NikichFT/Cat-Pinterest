@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Cat-Pinterest/static/css/main.84f8ae4b.chunk.css",
+    "main.js": "/Cat-Pinterest/static/js/main.71f62ea4.chunk.js",
+    "main.js.map": "/Cat-Pinterest/static/js/main.71f62ea4.chunk.js.map",
+    "runtime-main.js": "/Cat-Pinterest/static/js/runtime-main.5b01e139.js",
+    "runtime-main.js.map": "/Cat-Pinterest/static/js/runtime-main.5b01e139.js.map",
+    "static/js/2.08c03bbb.chunk.js": "/Cat-Pinterest/static/js/2.08c03bbb.chunk.js",
+    "static/js/2.08c03bbb.chunk.js.map": "/Cat-Pinterest/static/js/2.08c03bbb.chunk.js.map",
+    "static/js/3.ca842c90.chunk.js": "/Cat-Pinterest/static/js/3.ca842c90.chunk.js",
+    "static/js/3.ca842c90.chunk.js.map": "/Cat-Pinterest/static/js/3.ca842c90.chunk.js.map",
+    "index.html": "/Cat-Pinterest/index.html",
+    "static/css/main.84f8ae4b.chunk.css.map": "/Cat-Pinterest/static/css/main.84f8ae4b.chunk.css.map",
+    "static/js/2.08c03bbb.chunk.js.LICENSE.txt": "/Cat-Pinterest/static/js/2.08c03bbb.chunk.js.LICENSE.txt",
+    "static/media/LikeButton.scss": "/Cat-Pinterest/static/media/hovered_heart.8220379c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b01e139.js",
+    "static/js/2.08c03bbb.chunk.js",
+    "static/css/main.84f8ae4b.chunk.css",
+    "static/js/main.71f62ea4.chunk.js"
+  ]
+}
